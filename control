@@ -1,0 +1,9 @@
+Package: com.thuan.halo
+Name: Halo
+Version: 0.0.1
+Architecture: arm64e
+Description: An awesome MobileSubstrate tweak!
+Maintainer: thuan
+Author: thuan
+Section: Tweaks
+Depends: ios >= 16
