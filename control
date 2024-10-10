@@ -6,4 +6,4 @@ Description: An awesome MobileSubstrate tweak!
 Maintainer: thuan
 Author: thuan
 Section: Tweaks
-Depends: ios >= 16
+Depends: ios (>= 16.0)
