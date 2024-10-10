@@ -1,7 +1,7 @@
 TARGET := iphone:clang:latest:16.0
 INSTALL_TARGET_PROCESSES = SpringBoard
 THEOS_PACKAGE_INSTALL_PREFIX = /var/jb
-ARCHS = arm64e
+ARCHS = arm64 arm64e
 include $(THEOS)/makefiles/common.mk
 
 TWEAK_NAME = Halo
